@@ -1,0 +1,15 @@
+ROI = Region of interest
+
+roi1: first test. BPM is 70 ish
+
+roi2: Tobias 1. BPM ranging from 60 to 50 over the test. 
+
+roi3: Tobias 2. BPM is 55. 
+
+roi4: from the same file, with better roi
+
+roi5: pulse ish 65 BPM, reflectance
+
+roi6: pulse Behbod 85 BPM
+
+roi7: better roi
